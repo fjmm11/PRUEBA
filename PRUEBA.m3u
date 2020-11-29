@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PORTADA" tvg-logo="https://www.movistar.es/estaticos/img/ico-app-mi-movistar-2017.png" group-title="TDT",PORTADA
+http://ipsat.ath.cx:8000/EHeLSkQzAk/kHJRo0p6jF/706
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1419.png" group-title="TDT",LA 1 HD
+http://ipsat.ath.cx:8000/EHeLSkQzAk/kHJRo0p6jF/106
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="TDT",LA 1
+http://ipsat.ath.cx:8000/EHeLSkQzAk/kHJRo0p6jF/105
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="TDT",LA 2
